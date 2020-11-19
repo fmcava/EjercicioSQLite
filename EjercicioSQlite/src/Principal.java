@@ -71,6 +71,8 @@ public class Principal extends JFrame implements ActionListener{
 
 	public static void main(String[] args) {
 		 new Principal();
+		 System.out.println("Segundo commit SQLite");
+		 System.out.println("Segundo commit SQLite");
 		}//fin main
    
 }//fin class 
